@@ -11,7 +11,7 @@ Priority Rules
 - Priority 1 = Emergency
 - Priority 2 = Urgent
 - Priority 3 = Routine
-
+- 
 A smaller priority number means higher priority. Therefore, an Emergency patient is always treated before an Urgent or Routine patient.
 
 Features
